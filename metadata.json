@@ -1,0 +1,6 @@
+{
+  "name": "Rinz Store",
+  "description": "Website top up game online tercepat, resmi, dan terpercaya untuk Mobile Legends, Free Fire, Valorant, PUBG Mobile, Genshin Impact, dan voucher game lainnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
